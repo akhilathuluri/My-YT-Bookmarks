@@ -73,3 +73,10 @@ The "My YT Bookmarks" Chrome extension is open-source software released under th
 If you encounter any issues or have any questions about the "My YT Bookmarks" Chrome extension, please feel free to open an issue on the GitHub repository. Our team will be happy to assist you.
 
 Thank you for using "My YT Bookmarks"! We hope you enjoy using the extension to enhance your YouTube experience.
+
+
+## **Output**
+
+![Screenshot 2024-04-07 183325](https://github.com/akhilathuluri/My-YT-Bookmarks/assets/89147384/58248281-9cee-4997-b1de-bc71817e8690)
+![Screenshot 2024-04-07 183356](https://github.com/akhilathuluri/My-YT-Bookmarks/assets/89147384/eecdafe1-f715-478b-a159-d63cb5889ee4)
+
